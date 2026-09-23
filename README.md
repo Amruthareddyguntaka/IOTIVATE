@@ -1,4 +1,5 @@
 # IOTIVATE
+![IOTIVATE Project](WhatsApp%20Image%202026-09-23%20at%209.52.09%20PM.jpeg)
 
 IoT-based electrical appliance repair and issue identification project using ESP32.
 
